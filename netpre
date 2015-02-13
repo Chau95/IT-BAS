@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Networking</title>
+
+
+<link rel="stylesheet" type="text/css" href="groupstyle.css">
+ <link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/bootstrap-theme.css">
+</head>
+
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<header>
+<div class = "container">
+<h1>Green River College</h1>
+<h2>BAS Networking and Software Development Online Application</h2>
+</header>
+</div>
+<main>
+<div class="container">
+
+<div id="dates">
+<h3>Deadlines:</h3>
+<p>Important Date 1</p><br>
+<p>Important Date 2</p><br>
+<p>Important Date 3</p><br>
+</div>
+<div id="center">
+<h2>Networking Prerequisities</h2><br>
+<h3>Please check all that you have completed.</h3>
+<p>NOTE: If you don't have all of the prerequisites, or have extensive industry experience, an advisor will contact
+you to discuss options</p>
+<Input type="checkbox" id="class" value="programming"><br>
+(CS 141&145 or CS 131&132)
+<Input type="checkbox" id="class" value="database"><br>
+<Input type="checkbox" id="class" value="linux"><br>
+<Input type="checkbox" id="class" value="html"><br><br>
+Comments:
+<label for="notes">Notes:<br>
+<textarea rows="15" cols="50" name="notes">
+    
+</textarea>
+</label>
+
+</div>
+<div id="nav">
+<ul class="page">
+<li class="previous"><a href="#">Previous</a></li>
+<li class="next"><a href="#">Next</a></li>
+</ul>
+</div>
+</div>
+</main>
+
+
+
+
+
+<footer>
+<div class ="container">
+Green River College
+</div>
+</footer>
+
+
+
+
+</body>
+</html>

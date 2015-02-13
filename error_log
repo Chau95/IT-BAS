@@ -1,0 +1,122 @@
+[09-Feb-2015 20:01:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mcurry/public_html/328 project/validation.php on line 21
+[09-Feb-2015 20:01:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/mcurry/public_html/328 project/validation.php on line 35
+[09-Feb-2015 20:01:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/mcurry/public_html/328 project/validation.php on line 35
+[09-Feb-2015 20:02:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mcurry/public_html/328 project/validation.php on line 37
+[09-Feb-2015 20:03:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 44
+[09-Feb-2015 20:04:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 40
+[09-Feb-2015 20:04:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 41
+[09-Feb-2015 20:07:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 43
+[09-Feb-2015 20:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 43
+[09-Feb-2015 20:09:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 43
+[09-Feb-2015 20:09:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 43
+[09-Feb-2015 20:09:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 45
+[09-Feb-2015 20:09:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/validation.php on line 45
+[10-Feb-2015 15:03:39 America/Chicago] PHP Notice:  Undefined index: degreebtn in /home/mcurry/public_html/328 project/validation.php on line 12
+[10-Feb-2015 15:03:39 America/Chicago] PHP Notice:  Undefined index: studentYesNo in /home/mcurry/public_html/328 project/validation.php on line 15
+[10-Feb-2015 15:03:39 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/validation.php on line 16
+[10-Feb-2015 15:03:39 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/validation.php on line 17
+[10-Feb-2015 15:03:39 America/Chicago] PHP Notice:  Undefined index: statirs in /home/mcurry/public_html/328 project/validation.php on line 18
+[10-Feb-2015 15:03:39 America/Chicago] PHP Fatal error:  Call to undefined function clean() in /home/mcurry/public_html/328 project/validation.php on line 25
+[10-Feb-2015 15:03:58 America/Chicago] PHP Notice:  Undefined index: studentYesNo in /home/mcurry/public_html/328 project/validation.php on line 15
+[10-Feb-2015 15:03:58 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/validation.php on line 16
+[10-Feb-2015 15:03:58 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/validation.php on line 17
+[10-Feb-2015 15:03:58 America/Chicago] PHP Notice:  Undefined index: statirs in /home/mcurry/public_html/328 project/validation.php on line 18
+[10-Feb-2015 15:03:58 America/Chicago] PHP Fatal error:  Call to undefined function clean() in /home/mcurry/public_html/328 project/validation.php on line 25
+[11-Feb-2015 18:22:11 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/mcurry/public_html/328 project/contactinfo.php on line 59
+[11-Feb-2015 18:22:48 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/mcurry/public_html/328 project/contactinfo.php on line 106
+[11-Feb-2015 18:38:23 America/Chicago] PHP Fatal error:  Call to undefined function clean() in /home/mcurry/public_html/328 project/contactinfo.php on line 71
+[11-Feb-2015 19:24:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/mcurry/public_html/328 project/contactinfo.php on line 117
+[11-Feb-2015 19:27:13 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/mcurry/public_html/328 project/contactinfo.php on line 116
+[11-Feb-2015 19:44:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mcurry/public_html/328 project/tellusmore.php:2) in /home/mcurry/public_html/328 project/tellusmore.php on line 3
+[11-Feb-2015 19:44:47 America/Chicago] PHP Fatal error:  Call to undefined function SESSION_register() in /home/mcurry/public_html/328 project/tellusmore.php on line 72
+[11-Feb-2015 19:46:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mcurry/public_html/328 project/tellusmore.php:2) in /home/mcurry/public_html/328 project/tellusmore.php on line 3
+[11-Feb-2015 19:46:15 America/Chicago] PHP Fatal error:  Call to undefined function SESSION_register() in /home/mcurry/public_html/328 project/tellusmore.php on line 73
+[11-Feb-2015 19:46:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mcurry/public_html/328 project/tellusmore.php:2) in /home/mcurry/public_html/328 project/tellusmore.php on line 3
+[11-Feb-2015 19:46:57 America/Chicago] PHP Fatal error:  Call to undefined function SESSION_register() in /home/mcurry/public_html/328 project/tellusmore.php on line 73
+[11-Feb-2015 19:47:16 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mcurry/public_html/328 project/tellusmore.php:2) in /home/mcurry/public_html/328 project/tellusmore.php on line 3
+[11-Feb-2015 19:47:16 America/Chicago] PHP Fatal error:  Call to undefined function SESSION_register() in /home/mcurry/public_html/328 project/tellusmore.php on line 73
+[11-Feb-2015 19:47:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mcurry/public_html/328 project/tellusmore.php:2) in /home/mcurry/public_html/328 project/tellusmore.php on line 3
+[11-Feb-2015 19:49:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mcurry/public_html/328 project/tellusmore.php:2) in /home/mcurry/public_html/328 project/tellusmore.php on line 3
+[12-Feb-2015 20:26:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/mcurry/public_html/328 project/tellusmore.php on line 96
+[12-Feb-2015 20:29:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/mcurry/public_html/328 project/tellusmore.php on line 103
+[12-Feb-2015 20:30:17 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/mcurry/public_html/328 project/tellusmore.php on line 53
+[12-Feb-2015 20:30:17 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/mcurry/public_html/328 project/tellusmore.php on line 53
+[12-Feb-2015 20:30:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php54/lib/php') in /home/mcurry/public_html/328 project/tellusmore.php on line 53
+[12-Feb-2015 20:30:55 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/mcurry/public_html/328 project/tellusmore.php on line 53
+[12-Feb-2015 20:30:55 America/Chicago] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/mcurry/public_html/328 project/tellusmore.php on line 53
+[12-Feb-2015 20:30:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/php54/lib/php') in /home/mcurry/public_html/328 project/tellusmore.php on line 53
+[12-Feb-2015 20:32:27 America/Chicago] PHP Fatal error:  Call to undefined function SESSION_register() in /home/mcurry/public_html/328 project/tellusmore.php on line 104
+[12-Feb-2015 21:04:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/mcurry/public_html/328 project/tellusmore.php on line 54
+[12-Feb-2015 21:29:56 America/Chicago] PHP Fatal error:  Call to undefined function start_SESSION() in /home/mcurry/public_html/328 project/sdpre.php on line 2
+[12-Feb-2015 21:39:25 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/mcurry/public_html/328 project/sdpre.php on line 55
+[12-Feb-2015 21:46:58 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/mcurry/public_html/328 project/sdpre.php on line 27
+[12-Feb-2015 21:47:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mcurry/public_html/328 project/sdpre.php on line 29
+[12-Feb-2015 22:16:30 America/Chicago] PHP Notice:  Undefined variable: isValid in /home/mcurry/public_html/328 project/sdpre.php on line 33
+[12-Feb-2015 22:19:12 America/Chicago] PHP Notice:  Undefined variable: isValid in /home/mcurry/public_html/328 project/sdpre.php on line 33
+[12-Feb-2015 22:21:38 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/sdpre.php on line 53
+[12-Feb-2015 22:21:38 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 54
+[12-Feb-2015 22:22:57 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/sdpre.php on line 48
+[12-Feb-2015 22:22:57 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 49
+[12-Feb-2015 22:23:19 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/sdpre.php on line 47
+[12-Feb-2015 23:50:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/mcurry/public_html/328 project/tellusmore.php on line 12
+[12-Feb-2015 23:51:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 294
+[12-Feb-2015 23:54:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 285
+[12-Feb-2015 23:55:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 286
+[13-Feb-2015 00:04:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 286
+[13-Feb-2015 00:05:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 208
+[13-Feb-2015 00:08:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 203
+[13-Feb-2015 00:08:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 203
+[13-Feb-2015 00:12:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 202
+[13-Feb-2015 00:14:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 201
+[13-Feb-2015 00:20:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 198
+[13-Feb-2015 00:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 196
+[13-Feb-2015 00:28:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 201
+[13-Feb-2015 00:28:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 201
+[13-Feb-2015 00:36:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 196
+[13-Feb-2015 00:36:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/tellusmore.php on line 196
+[13-Feb-2015 00:42:28 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 49
+[13-Feb-2015 00:48:32 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 00:49:18 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/sdpre.php on line 66
+[13-Feb-2015 00:52:15 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/sdpre.php on line 66
+[13-Feb-2015 00:52:53 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/sdpre.php on line 65
+[13-Feb-2015 00:52:53 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 00:53:56 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/sdpre.php on line 65
+[13-Feb-2015 00:53:56 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 00:54:32 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/sdpre.php on line 65
+[13-Feb-2015 00:54:32 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 01:37:19 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 01:39:57 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 01:40:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mcurry/public_html/328 project/education.php on line 52
+[13-Feb-2015 01:41:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mcurry/public_html/328 project/education.php on line 52
+[13-Feb-2015 01:41:36 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/sdpre.php on line 67
+[13-Feb-2015 01:41:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/mcurry/public_html/328 project/education.php on line 52
+[13-Feb-2015 01:42:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/mcurry/public_html/328 project/education.php on line 102
+[13-Feb-2015 01:43:11 America/Chicago] PHP Notice:  Undefined index: prereq3 in /home/mcurry/public_html/328 project/education.php on line 67
+[13-Feb-2015 01:43:11 America/Chicago] PHP Notice:  Undefined index: prereq4 in /home/mcurry/public_html/328 project/education.php on line 68
+[13-Feb-2015 01:43:11 America/Chicago] PHP Notice:  Undefined index: prereq5 in /home/mcurry/public_html/328 project/education.php on line 69
+[13-Feb-2015 01:43:43 America/Chicago] PHP Notice:  Undefined index: prereq1 in /home/mcurry/public_html/328 project/education.php on line 65
+[13-Feb-2015 01:43:43 America/Chicago] PHP Notice:  Undefined index: prereq2 in /home/mcurry/public_html/328 project/education.php on line 66
+[13-Feb-2015 01:43:43 America/Chicago] PHP Notice:  Undefined index: prereq3 in /home/mcurry/public_html/328 project/education.php on line 67
+[13-Feb-2015 01:43:43 America/Chicago] PHP Notice:  Undefined index: prereq4 in /home/mcurry/public_html/328 project/education.php on line 68
+[13-Feb-2015 01:43:43 America/Chicago] PHP Notice:  Undefined index: prereq5 in /home/mcurry/public_html/328 project/education.php on line 69
+[13-Feb-2015 01:43:43 America/Chicago] PHP Notice:  Undefined index: notes in /home/mcurry/public_html/328 project/education.php on line 70
+[13-Feb-2015 01:44:57 America/Chicago] PHP Notice:  Undefined index: prereq1 in /home/mcurry/public_html/328 project/education.php on line 65
+[13-Feb-2015 01:44:57 America/Chicago] PHP Notice:  Undefined index: prereq2 in /home/mcurry/public_html/328 project/education.php on line 66
+[13-Feb-2015 01:44:57 America/Chicago] PHP Notice:  Undefined index: prereq3 in /home/mcurry/public_html/328 project/education.php on line 67
+[13-Feb-2015 01:44:57 America/Chicago] PHP Notice:  Undefined index: prereq4 in /home/mcurry/public_html/328 project/education.php on line 68
+[13-Feb-2015 01:44:57 America/Chicago] PHP Notice:  Undefined index: prereq5 in /home/mcurry/public_html/328 project/education.php on line 69
+[13-Feb-2015 01:44:57 America/Chicago] PHP Notice:  Undefined index: notes in /home/mcurry/public_html/328 project/education.php on line 70
+[13-Feb-2015 01:46:47 America/Chicago] PHP Notice:  Undefined index: prereq1 in /home/mcurry/public_html/328 project/education.php on line 65
+[13-Feb-2015 01:46:47 America/Chicago] PHP Notice:  Undefined index: prereq2 in /home/mcurry/public_html/328 project/education.php on line 66
+[13-Feb-2015 01:46:47 America/Chicago] PHP Notice:  Undefined index: prereq3 in /home/mcurry/public_html/328 project/education.php on line 67
+[13-Feb-2015 01:46:47 America/Chicago] PHP Notice:  Undefined index: prereq4 in /home/mcurry/public_html/328 project/education.php on line 68
+[13-Feb-2015 01:46:47 America/Chicago] PHP Notice:  Undefined index: prereq5 in /home/mcurry/public_html/328 project/education.php on line 69
+[13-Feb-2015 01:46:47 America/Chicago] PHP Notice:  Undefined index: notes in /home/mcurry/public_html/328 project/education.php on line 70
+[13-Feb-2015 01:48:16 America/Chicago] PHP Notice:  Undefined index: statvet in /home/mcurry/public_html/328 project/netpre.php on line 64
+[13-Feb-2015 01:48:16 America/Chicago] PHP Notice:  Undefined index: statint in /home/mcurry/public_html/328 project/netpre.php on line 65
+[13-Feb-2015 01:48:16 America/Chicago] PHP Notice:  Undefined index: statrs in /home/mcurry/public_html/328 project/netpre.php on line 66
+[13-Feb-2015 01:49:51 America/Chicago] PHP Notice:  Undefined index: prereq2 in /home/mcurry/public_html/328 project/education.php on line 66
+[13-Feb-2015 01:49:51 America/Chicago] PHP Notice:  Undefined index: prereq4 in /home/mcurry/public_html/328 project/education.php on line 68
+[13-Feb-2015 01:53:35 America/Chicago] PHP Notice:  Undefined index: prereq2 in /home/mcurry/public_html/328 project/education.php on line 66
+[13-Feb-2015 01:53:35 America/Chicago] PHP Notice:  Undefined index: prereq4 in /home/mcurry/public_html/328 project/education.php on line 68
+[13-Feb-2015 01:53:35 America/Chicago] PHP Notice:  Undefined index: prereq5 in /home/mcurry/public_html/328 project/education.php on line 69
